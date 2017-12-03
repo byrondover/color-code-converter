@@ -8,6 +8,10 @@ Implementation of [Getting Started with Node.js and Mocha](https://semaphoreci.c
 yarn start
 ```
 
+Convert HEX values to RGB equivalents as follows.
+
+<http://localhost:5000/hexToRgb?hex=00FF00>
+
 ## Testing
 
 ```
